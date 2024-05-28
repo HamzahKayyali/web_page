@@ -1,27 +1,27 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Celebrity Hub</title>
+  <title>Erling Haaland</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to Celebrity Hub</h1>
+    <h1>Erling Haaland</h1>
     <nav>
       <ul>
+        <li><a href="index.html">Home</a></li>
         <li><a href="dua_lipa.html">Dua Lipa</a></li>
         <li><a href="Ronaldo.html">Cristiano Ronaldo</a></li>
-        <li><a href="erling_haaland.html">Erling Haaland</a></li>
       </ul>
     </nav>
   </header>
   <main>
     <section>
-      <h2>Get to Know Your Favorite Celebrities</h2>
-      <p>Explore the lives and careers of Dua Lipa, Cristiano Ronaldo, and Erling Haaland.</p>
+      <h2>Biography</h2>
+      <p>Erling Haaland is a Norwegian professional footballer known for his incredible speed and goal-scoring prowess.</p>
+      <img src="erling_haaland.jpg" alt="Erling Haaland">
     </section>
   </main>
   <footer>
